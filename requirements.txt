@@ -11,7 +11,7 @@ cloud-init==18.2
 colorama==0.3.2
 configobj==4.7.2
 crypto==1.4.1
-cryptography==1.7.2
+cryptography==3.2
 DBUtils==1.1
 Django==1.9.7
 django-cors-headers==2.1.0

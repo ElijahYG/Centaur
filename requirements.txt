@@ -52,7 +52,7 @@ pystache==0.5.3
 python-daemon==1.6
 python-dateutil==2.6.0
 pyxattr==0.5.1
-PyYAML==3.10
+PyYAML==5.4
 redis==3.0.1
 repoze.lru==0.4
 requests==2.6.0

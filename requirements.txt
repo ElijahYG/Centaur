@@ -64,7 +64,7 @@ six==1.9.0
 supervisor==3.3.4
 torndb==0.3
 urlgrabber==3.10
-urllib3==1.10.2
+urllib3==1.26.5
 uWSGI==2.0.17.1
 yum-langpacks==0.4.2
 yum-metadata-parser==1.1.4

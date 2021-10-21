@@ -1,7 +1,7 @@
 amazon-linux-extras==1.6.3
 aws-cfn-bootstrap==1.4
 awscli==1.15.80
-Babel==0.9.6
+Babel==2.9.1
 backports.ssl-match-hostname==3.5.0.1
 boto3==1.4.4
 botocore==1.5.95
